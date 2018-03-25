@@ -1,16 +1,16 @@
-#!/usr/bin/env python3
+USE  YOUR CONSUMER KEY#!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Created on Sat Mar  3 11:02:20 2018
+Created on Sat NOV  5 11:02:20 2017
 
 @author: kishor
 """
 
 #consumer key and access token
-consumer_key = '0pqFOXsLPf87ht87RZYkhUj4r'
-consumer_secret = 'wVcnL3tpXV5gJf8Tbbqje5CPHgaxzrSM4vyh9mOKw6zp8MDZMZ'
+consumer_key = 'USE YOUR CONSUMER KEY'
+consumer_secret = 'USE YOUR CONSUMER SECRET'
 
 
-access_token = '2300044628-Tm6fJkuzXrjtgXSlyHeNW6z6OvVGlRSynn1Mrzd'
-access_token_secret = 'QoXcWmwlCBmMgzchnjygd4vmJsAswez6j0HL6h6fmzSMf'
+access_token = 'USE YOUR ACCESS TOKEN'
+access_token_secret = 'USE YOUR ACCESS TOKEN SECRET'
 
